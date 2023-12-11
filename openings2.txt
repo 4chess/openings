@@ -1,0 +1,82 @@
+
+21. London System
+    1. d4 d5
+    2. Bf4
+
+22. Catalan Opening
+    1. d4 d5
+    2. c4 e6
+    3. g3
+
+23. Torre Attack
+    1. d4 d5
+    2. Nf3 Nf6
+    3. Bg5
+
+24. Trompowsky Attack
+    1. d4 Nf6
+    2. Bg5
+
+25. Benko Gambit
+    1. d4 Nf6
+    2. c4 c5
+    3. d5 b5
+
+26. Benoni Defense
+    1. d4 Nf6
+    2. c4 c5
+    3. d5 e6
+
+27. Nimzowitsch Defense
+    1. e4 Nc6
+
+28. Bird's Opening
+    1. f4
+
+29. Budapest Gambit
+    1. d4 Nf6
+    2. c4 e5
+
+30. Four Knights Game
+    1. e4 e5
+    2. Nf3 Nc6
+    3. Nc3 Nf6
+
+31. King's Fianchetto Opening
+    1. g3
+
+32. Orangutan (Sokolsky Opening)
+    1. b4
+
+33. Queen's Pawn Game
+    1. d4 d5
+
+34. Scandinavian Defense
+    1. e4 d5
+
+35. Stonewall Attack
+    1. d4 d5
+    2. e3 Nf6
+    3. Bd3
+
+36. Two Knights Defense
+    1. e4 e5
+    2. Nf3 Nc6
+    3. Bc4 Nf6
+
+37. Veresov Attack
+    1. d4 d5
+    2. Nc3 Nf6
+    3. Bg5
+
+38. Wade Defense
+    1. d4 d6
+
+39. Albin Counter-Gambit
+    1. d4 d5
+    2. c4 e5
+
+40. Bogo-Indian Defense
+    1. d4 Nf6
+    2. c4 e6
+    3. Nf3 Bb4+

@@ -1,0 +1,114 @@
+
+101. King's Gambit Accepted
+    1. e4 e5
+    2. f4 exf4
+
+102. Bishop's Opening
+    1. e4 e5
+    2. Bc4
+
+103. Vienna Game: Falkbeer Variation
+    1. e4 e5
+    2. Nc3 Nf6
+    3. f4 d5
+
+104. Center Counter Defense
+    1. e4 d5
+    2. exd5 Qxd5
+
+105. Ponziani Opening
+    1. e4 e5
+    2. Nf3 Nc6
+    3. c3
+
+106. King's Gambit: Fischer Defense
+    1. e4 e5
+    2. f4 exf4
+    3. Nf3 d6
+
+107. Sicilian Defense: Alapin Variation
+    1. e4 c5
+    2. c3
+
+108. Sicilian Defense: Dragon Variation
+    1. e4 c5
+    2. Nf3 d6
+    3. d4 cxd4
+    4. Nxd4 Nf6
+    5. Nc3 g6
+    6. Be3 Bg7
+    7. f3 O-O
+    8. Qd2 Nc6
+
+109. Sicilian Defense: Najdorf Variation
+    1. e4 c5
+    2. Nf3 d6
+    3. d4 cxd4
+    4. Nxd4 Nf6
+    5. Nc3 a6
+
+110. French Defense: Advance Variation
+    1. e4 e6
+    2. d4 d5
+    3. e5
+
+111. French Defense: Winawer Variation
+    1. e4 e6
+    2. d4 d5
+    3. Nc3 Bb4
+
+112. Caro-Kann Defense: Advance Variation
+    1. e4 c6
+    2. d4 d5
+    3. e5
+
+113. Caro-Kann Defense: Classical Variation
+    1. e4 c6
+    2. d4 d5
+    3. Nc3 dxe4
+    4. Nxe4 Bf5
+
+114. Nimzo-Indian Defense: Classical Variation
+    1. d4 Nf6
+    2. c4 e6
+    3. Nc3 Bb4
+    4. Qc2
+
+115. Grunfeld Defense: Exchange Variation
+    1. d4 Nf6
+    2. c4 g6
+    3. Nc3 d5
+    4. cxd5 Nxd5
+    5. e4 Nxc3
+    6. bxc3
+
+116. King's Indian Defense: Orthodox Variation
+    1. d4 Nf6
+    2. c4 g6
+    3. Nc3 Bg7
+    4. e4 d6
+    5. Nf3 O-O
+    6. Be2 e5
+    7. O-O Nc6
+
+117. English Opening: King's English Variation
+    1. c4 e5
+    2. Nc3 Nf6
+    3. Nf3 Nc6
+    4. e4
+
+118. English Opening: Symmetrical Variation
+    1. c4 c5
+
+119. Reti Opening: Advance Variation
+    1. Nf3 d5
+    2. c4 d4
+    3. b4
+
+120. Reti Opening: King's Indian Attack, Keres Variation
+    1. Nf3 d5
+    2. g3 c6
+    3. Bg2 Nd7
+    4. O-O e5
+    5. d3 Ngf6
+    6. Nbd2

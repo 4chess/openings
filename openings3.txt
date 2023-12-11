@@ -1,0 +1,94 @@
+
+41. Center Game
+    1. e4 e5
+    2. d4 exd4
+    3. Qxd4
+
+42. Danish Gambit
+    1. e4 e5
+    2. d4 exd4
+    3. c3
+
+43. Evans Gambit
+    1. e4 e5
+    2. Nf3 Nc6
+    3. Bc4 Bc5
+    4. b4
+
+44. Giuoco Piano
+    1. e4 e5
+    2. Nf3 Nc6
+    3. Bc4 Bc5
+    4. c3
+
+45. Latvian Gambit
+    1. e4 e5
+    2. Nf3 f5
+
+46. Lasker Defense
+    1. d4 d5
+    2. c4 e6
+    3. Nc3 Be7
+
+47. Modern Defense
+    1. e4 g6
+
+48. Owen's Defense
+    1. e4 b6
+
+49. Petrov's Defense
+    1. e4 e5
+    2. Nf3 Nf6
+
+50. Polish Opening
+    1. b4
+
+51. Portuguese Opening
+    1. e4 e5
+    2. Bb5
+
+52. Queen's Indian Defense
+    1. d4 Nf6
+    2. c4 e6
+    3. Nf3 b6
+
+53. Richter-Veresov Attack
+    1. d4 d5
+    2. Nc3 Nf6
+    3. Bg5 h6
+    4. Bxf6 exf6
+
+54. Robatsch (Modern) Defense
+    1. e4 g6
+    2. d4 Bg7
+
+55. Saragossa Opening
+    1. c3
+
+56. Schliemann Defense
+    1. e4 e5
+    2. Nf3 Nc6
+    3. Bb5 f5
+
+57. Semi-Slav Defense
+    1. d4 d5
+    2. c4 c6
+    3. Nf3 Nf6
+    4. Nc3 e6
+
+58. Sicilian Dragon
+    1. e4 c5
+    2. Nf3 d6
+    3. d4 cxd4
+    4. Nxd4 Nf6
+    5. Nc3 g6
+
+59. Smith-Morra Gambit
+    1. e4 c5
+    2. d4 cxd4
+    3. c3
+
+60. Tarrasch Defense
+    1. d4 d5
+    2. c4 e6
+    3. Nc3 c5
